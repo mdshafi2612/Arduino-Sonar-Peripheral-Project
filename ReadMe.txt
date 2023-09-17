@@ -1,0 +1,2 @@
+1. You Need to install the Processing 4 Software for coding the graphical user interface of the 180 or 360 degree radar. 
+2. Then copy the respective font file and paste it inside the processing/sketch/ directory.
